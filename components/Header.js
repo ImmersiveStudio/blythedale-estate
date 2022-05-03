@@ -182,34 +182,34 @@ function Header() {
             className="dropdown-list wider w-dropdown-list"
             >
             <Link href="/estates/blythedale-beach">
-            <div className="nav-text-drop-down w-dropdown-link">
+            <a className="nav-text-drop-down w-dropdown-link">
             Blythedale Beach
-            </div>
+            </a>
             </Link>
             <Link href="/estates/blythedale-equestrian">
-            <div className="nav-text-drop-down w-dropdown-link">
+            <a className="nav-text-drop-down w-dropdown-link">
             Blythedale Equestrian
-            </div>
+            </a>
             </Link>
             <Link href="/estates/blythedale-forest">
-            <div className="nav-text-drop-down w-dropdown-link">
+            <a className="nav-text-drop-down w-dropdown-link">
             Blythedale Forest
-            </div>
+            </a>
             </Link>
             <Link href="/estates/blythedale-golf">
-            <div className="nav-text-drop-down w-dropdown-link">
+            <a className="nav-text-drop-down w-dropdown-link">
             Blythedale Golf
-            </div>
+            </a>
             </Link>
             <Link href="/estates/blythedale-hills">
-            <div className="nav-text-drop-down w-dropdown-link">
+            <a className="nav-text-drop-down w-dropdown-link">
             Blythedale Hills
-            </div>
+            </a>
             </Link>
             <Link href="/estates/blythedale-ocean">
-            <div className="nav-text-drop-down w-dropdown-link">
+            <a className="nav-text-drop-down w-dropdown-link">
             Blythedale Ocean
-            </div>
+            </a>
             </Link>
           </motion.nav>
       )
